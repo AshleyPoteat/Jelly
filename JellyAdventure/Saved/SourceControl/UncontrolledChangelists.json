@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/apoteat1/Documents/GitHub/Jelly/JellyAdventure/Content/Characters/BP_PickupJellybean.uasset",
+				"C:/Users/apoteat1/Documents/GitHub/Jelly/JellyAdventure/Content/Characters/BP_PickupJellybean1.uasset",
+				"C:/Users/apoteat1/Documents/GitHub/Jelly/JellyAdventure/Content/Characters/BP_PickupJellybean2.uasset",
+				"C:/Users/apoteat1/Documents/GitHub/Jelly/JellyAdventure/Content/Characters/BP_PickupJellybean3.uasset",
+				"C:/Users/apoteat1/Documents/GitHub/Jelly/JellyAdventure/Content/Characters/BP_PickupJellybean4.uasset",
 				"C:/Users/Classroom User/Documents/Jelly/JellyAdventure/Content/Characters/BP_ClownBall.uasset",
 				"C:/Users/Classroom User/Documents/Jelly/JellyAdventure/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Classroom User/Documents/Jelly/JellyAdventure/Content/Materials/clownball/Materials/Material_001.uasset",
